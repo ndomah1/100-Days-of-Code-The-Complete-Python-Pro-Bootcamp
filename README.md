@@ -3,6 +3,7 @@
 
 # Beginner
 Day 1 - Working with Variables in Python to Manage Data
+Day 2 - Understanding DAta Types and How to Manipulate Strings
 
 # Intermediate
 
