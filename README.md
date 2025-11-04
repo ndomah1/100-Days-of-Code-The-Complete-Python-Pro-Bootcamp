@@ -7,6 +7,10 @@
 - [Day 3 - Control Flow and Logical Operators]()
 
 # Intermediate
-
+- Day 16 - Object Oriented Programming (OOP)
+- 
 
 # Advanced
+- Day 59 - Blog Capsotne Project Part 2 - Adding Styling
+- 
+  
