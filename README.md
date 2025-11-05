@@ -1,5 +1,5 @@
 # 100 Days of Code: The Complete Python Pro Bootcamp
-🚀 My journey through [Angela Yu’s 100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/). Covers Python fundamentals to advanced projects — automation, data science, web dev, APIs, and more. Daily progress, hands-on challenges, and real-world apps.
+Project-based learning for Python
 
 # Beginner
 - [Day 1 - Working with Variables in Python to Manage Data](https://github.com/ndomah1/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/001.%20Day%201%20-%20Working%20with%20Variables%20in%20Python%20to%20Manage%20Data)
@@ -27,7 +27,41 @@
 - Day 21 - Build the Snake Game Part 2: Inheritance & List Slicing
 - Day 22 - Build Pong: The Famous Arcade Game
 - Day 23 - The Turtle Crossing Capstone Project
-- Day 24 - Working with CSV Data and the Pandas Library
+- Day 24 - Files, Directories, and Paths
+- Day 25 - Working with CSV Data and the Pandas Library
+- Day 26 - List Comprehension and the NATO Alphabet
+- Day 27 - Tkinter, *args, **kwargs, and Creating GUI Programs
+- Day 28 - Tkinger, Dynamic Typing and the Pomodoro GUI Application
+- Day 29 - Building a Password Manager GUI App with Tkinter
+- Day 30 - Errors, Exceptions, and JSON Data: Improving the Password
+- Day 31 - Flash Card App Capstone Project
+- Day 32 - Send Email (smtplib) & Manage Dates (datetime)
+- Day 33 - API Endpoints & API Parameters - ISS Overhead Notifier
+- Day 34 - API Practice - Creating a GUI Quiz App
+- Day 35 - Keys, Authentication, and Environment Variables: Send SMS
+- Day 36 - Stock Trading News Alert Project
+- Day 37 - Habit Tracking Project: API Post Requests & Headers
+- Day 38 - Workout Tracking Using Google Sheets
+- Day 39 - Capstone Part 1: Flight Deal Finder
+- Day 40 - Capstone Part 2: Flight Club
+- Day 41 - Web Foundation - Introduction to HTML
+- Day 42 - Web Foundation - Intermediate HTML
+- Day 43 - Web Foundation - Introduction to CSS
+- Day 44 - Web Foundation - Intermediate CSS
+- Day 45 - Web Scraping with Beautiful Soup
+- Day 46 - Create a Spotify Playlist using the Musical Time Machine
+- Day 47 - Create an Automated Amazon Price Tracker
+- Day 48 - Selenium Webdriver Browser and Game Playing Bot
+- Day 49 - Automating your Exercise Routine at the Gym
+- Day 50 - Auto Tinder Swiping Bot
+- Day 51 - Internet Speed Twitter Complaint Bot
+- Day 52 - Instagram Follower Bot
+- Day 53 - Web Scraping Capstone - Data Entry Job Automation
+- Day 54 - Introduction to Web Development with Flask
+- Day 55 - HTML & URL Parsing in Flask and the Higher Lower Game
+- Day 56 - Rendering HTML/Static files and Using Website Templates
+- Day 57 - Templating with Jinja in Flask Applications
+- Day 58 - Web Foundation Bootstrap
 
 # Advanced
 - Day 59 - Blog Capsotne Project Part 2 - Adding Styling
