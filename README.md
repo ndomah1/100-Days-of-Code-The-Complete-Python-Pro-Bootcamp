@@ -65,5 +65,45 @@ Project-based learning for Python
 
 # Advanced
 - Day 59 - Blog Capsotne Project Part 2 - Adding Styling
-- 
-  
+- Day 60 - Make POST Requests with Flask and HTML Forms
+- Day 61 - Building Advanced Forms with Flask-WTForms
+- Day 62 - Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
+- Day 63 - Databases with SQLite and SQLAlchemy
+- Day 64 - My Top 10 Movies Website
+- Day 65 - Web Design School - How to Create a Website that People will Love
+- Day 66 - Building Your Own API with RESTful Routing
+- Day 67 - Blog Capstone Project Part 3 - RESTful Routing
+- Day 68 - Authentication with Flask
+- Day 69 - Blog Capstone Project Part 4 - Adding Users
+- Day 70 - Git, GitHub, and Version Control
+- Day 71 - Deploying Your Web Application
+- Day 72 - Data Exploration with Pandas: College Major vs Your Salary
+- Day 73 - Data Viusalization with Matplotlib: Programming Languages
+- Day 74 - Aggregate & Merge Data with Pandas: Analyze the LEGO Dataset
+- Day 75 - Google Trends Data: Resampling and Visualizing Time Series
+- Day 76 - Beautiful Plotly Charts and Analyzing the Android App Store
+- Day 77 - Computation with NumPy and N-Dimensional Arrays
+- Day 78 - Linear Regression and Data Visualization with Seaborn
+- Day 79 - Analyzing the Nobel Prize with Plotly, Matplotlib, and Seaborn
+- Day 80 - The Tragic Discovery of Handwashing: t-Tests and Distributions
+- Day 81 - Capstone Project: Predict House Prices
+- Day 82 - Professional Portfolio Project - Scripting
+- Day 83 - Professional Portfolio Project - Web Development
+- Day 84 - Professional Portfolio Project - Scripting
+- Day 85 - Professional Portfolio Project - GUI
+- Day 86 - Professional Portfolio Project - GUI
+- Day 87 - Professional Portfolio Project - Game
+- Day 88 - Professional Portfolio Project - Web Development
+- Day 89 - Professional Portfolio Project - Web Development
+- Day 90 - Professional Portfolio Project - GUI Desktop App
+- Day 91 - Professional Portfolio Project - HTTP Requests & APIs
+- Day 92 - Professional Portfolio Project - Image Processing & Data Science
+- Day 93 - Professional Portfolio Project - Web Scraping
+- Day 94 - Professional Portfolio Project - GUI Automation
+- Day 95 - Professional Portfolio Project - Game
+- Day 96 - Professional Portfolio Project - HTTP Requests & APIs
+- Day 97 - Professional Portfolio Project - Web Development
+- Day 98 - Professional Portfolio Project - Python Automation
+- Day 99 - Professional Portfolio Project - Data Science
+- Day 100 - Professional Portfolio Project - Data Science
+- Day 101 - Final Stretch
