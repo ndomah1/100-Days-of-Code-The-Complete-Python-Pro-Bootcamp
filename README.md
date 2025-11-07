@@ -7,7 +7,7 @@
 - [Day 3 - Control Flow and Logical Operators](https://github.com/ndomah1/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/003.%20Day%203%20-%20Control%20Flow%20and%20Logical%20Operators)
 - [Day 4 - Randomization and Python Lists](https://github.com/ndomah1/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/004.%20Day%204%20-%20Randomization%20and%20Python%20Lists)
 - [Day 5 - Python Loops](https://github.com/ndomah1/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/005.%20Day%205%20-%20Python%20Loops)
-- Day 6 - Functions & Karel
+- [Day 6 - Functions and Karel](https://github.com/ndomah1/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/006.%20Day%206%20-%20Functions%20and%20Karel)
 - Day 7 - Hangman
 - Day 8 - Function Parameters & Caesar Cipher
 - Day 9 - Dictionaries, Nesting, and the Secret Auction
