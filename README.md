@@ -9,7 +9,7 @@
 - [Day 5 - Python Loops](https://github.com/ndomah1/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/005.%20Day%205%20-%20Python%20Loops)
 - [Day 6 - Functions and Karel](https://github.com/ndomah1/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/006.%20Day%206%20-%20Functions%20and%20Karel)
 - [Day 7 - Hangman](https://github.com/ndomah1/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/007.%20Day%207%20-%20Hangman)
-- Day 8 - Function Parameters & Caesar Cipher
+- [Day 8 - Function Parameters and Caesar Cipher](https://github.com/ndomah1/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/008.%20Day%208%20-%20Function%20Parameters%20and%20Caesar%20Cipher)
 - Day 9 - Dictionaries, Nesting, and the Secret Auction
 - Day 10 - Functions with Outputs
 - Day 11 - The Blackjack Capstone Project
