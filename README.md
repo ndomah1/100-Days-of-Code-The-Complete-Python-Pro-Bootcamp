@@ -11,7 +11,7 @@
 - [Day 7 - Hangman](https://github.com/ndomah1/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/007.%20Day%207%20-%20Hangman)
 - [Day 8 - Function Parameters and Caesar Cipher](https://github.com/ndomah1/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/008.%20Day%208%20-%20Function%20Parameters%20and%20Caesar%20Cipher)
 - [Day 9 - Dictionaries, Nesting, and the Secret Auction](https://github.com/ndomah1/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/009.%20Day%209%20-%20Dictionaries%2C%20Nesting%2C%20and%20the%20Secret%20Auction)
-- Day 10 - Functions with Outputs
+- [Day 10 - Functions with Outputs](https://github.com/ndomah1/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/010.%20Day%2010%20-%20Functions%20with%20Outputs)
 - Day 11 - The Blackjack Capstone Project
 - Day 12 - Scope & Number Guessing Game
 - Day 13 - Debugging: How to Find and Fix Errors in your Code
