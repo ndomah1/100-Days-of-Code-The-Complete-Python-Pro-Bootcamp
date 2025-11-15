@@ -13,7 +13,7 @@
 - [Day 9 - Dictionaries, Nesting, and the Secret Auction](https://github.com/ndomah1/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/009.%20Day%209%20-%20Dictionaries%2C%20Nesting%2C%20and%20the%20Secret%20Auction)
 - [Day 10 - Functions with Outputs](https://github.com/ndomah1/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/010.%20Day%2010%20-%20Functions%20with%20Outputs)
 - [Day 11 - The Blackjack Capstone Project](https://github.com/ndomah1/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/011.%20Day%2011%20-%20The%20Blackjack%20Capstone%20Project)
-- Day 12 - Scope & Number Guessing Game
+- [Day 12 - Scope & Number Guessing Game](https://github.com/ndomah1/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/012.%20Day%2012%20-%20Scope%20%26%20Number%20Guessing%20Game)
 - Day 13 - Debugging: How to Find and Fix Errors in your Code
 - Day 14 - Higher Lower Game Project
 - Day 15 - Local Development Environment Setup & the Coffee Machine
